@@ -1,0 +1,42 @@
+body {
+
+    background-color: #f5f5dc;
+    height: 100vh;
+    width: 100vw;
+  
+}
+h1{
+    padding-left: 10%;
+    padding-top: 20%
+}
+
+.divider {
+    border-bottom: 2px solid black;
+}
+.gallery-photos{
+
+    margin-top: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    align-content: center;
+}
+.image-main{
+    padding-right: 5%;
+}
+footer{
+    background-color: #f5f5dc;
+    height: 20vh;
+    width: 100vw;
+    text-align: center;
+    padding-top: 6vh;
+    text-decoration: underline;
+    text-transform: uppercase;
+   
+}
+
+.img-fluid:hover {
+    opacity: 0.8;
+    transition: 100px;
+    border-radius: 5%;
+    display: flex;
+}
